@@ -40,5 +40,12 @@
         "password": "G435X",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b8dc1033afb9e78c",
+        "username": "G32HX",
+        "password": "G666CX",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
