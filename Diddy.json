@@ -26,5 +26,12 @@
         "password": "G165X",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b19109ab6c825f92",
+        "username": "G145X",
+        "password": "G165X",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
