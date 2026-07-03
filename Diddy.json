@@ -47,5 +47,12 @@
         "password": "G666CX",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c8ahh30t2b5lk9",
+        "username": "H56G",
+        "password": "J67G",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
