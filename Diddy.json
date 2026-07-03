@@ -33,5 +33,12 @@
         "password": "drake777",
         "expirydate": "11-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3f3f1d58ab6cd98",
+        "username": "diddy545",
+        "password": "drake777",
+        "expirydate": "11-07-2026",
+        "Allowoffline": false
     }
 ]
