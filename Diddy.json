@@ -82,5 +82,12 @@
     "password": "AS01",
     "expirydate": "11-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f3fcbe6038d7da29",
+    "username": "L14G",
+    "password": "AS11",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
   }
 ]
