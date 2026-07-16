@@ -96,5 +96,12 @@
     "password": "user_1234",
     "expirydate": "15-09-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "265e56b51b28989b",
+    "username": "NiceTryDiddy123",
+    "password": "WellPlayedDrake123",
+    "expirydate": "20-07-2026",
+    "Allowoffline": false
   }
 ]
