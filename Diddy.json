@@ -85,8 +85,15 @@
   },
   {
     "device_id": "f3fcbe6038d7da29",
-    "username": "L14G",
-    "password": "AS11",
+    "username": "NEW_USER_101",
+    "password": "NEW_PASS_101",
+    "expirydate": "15-09-2026",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Ca73c066e842e853",
+    "username": "NI8N",
+    "password": "G79B",
     "expirydate": "15-09-2026",
     "Allowoffline": false
   }
