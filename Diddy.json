@@ -11,13 +11,6 @@
       "password": "password123",
       "device_id": "ANY",
       "status": "active"
-    },
-    {
-      "username": "blockeduser",
-      "password": "123",
-      "device_id": "ANY",
-      "status": "expired"
     }
   ]
 }
-
