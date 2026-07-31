@@ -3,13 +3,7 @@
     {
       "username": "deepu",
       "password": "123",
-      "device_id": "ANY",
-      "status": "active"
-    },
-    {
-      "username": "testuser",
-      "password": "password123",
-      "device_id": "ANY",
+      "device_id": "b4ebb9a384d2bc1",
       "status": "active"
     }
   ]
